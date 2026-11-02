@@ -7,7 +7,7 @@
 
 I developed an interactive Power BI dashboard to analyze financial performance, operational efficiency, and risk & compliance indicators using an IoT financial management dataset.
 
-The project brings together three areas of business performance to identify trends, compare departments and regions, and highlight potential opportunities for improvement.
+The project combines three areas of business performance to identify trends, compare regions and departments, and highlight potential opportunities for improvement.
 
 ## 🎯 Business Objectives
 
@@ -15,7 +15,7 @@ The project brings together three areas of business performance to identify tren
 - Compare revenue and net profit across regions.
 - Evaluate operational performance across departments.
 - Analyze fraud risk and compliance indicators.
-- Present actionable insights through interactive visualizations.
+- Present findings through interactive visualizations.
 
 ---
 
@@ -23,7 +23,7 @@ The project brings together three areas of business performance to identify tren
 
 ### 1. Financial Performance Overview
 
-![Financial Performance Overview](financial-overview.png)
+![Financial Performance Overview](Financial%20Performance%20Overview.png)
 
 **Key Performance Indicators:**
 
@@ -39,7 +39,7 @@ The project brings together three areas of business performance to identify tren
 
 ### 2. Operational Performance Analysis
 
-![Operational Performance Analysis](operational-performance.png)
+![Operational Performance](Operational%20Performance.png)
 
 **Key Performance Indicators:**
 
@@ -52,7 +52,7 @@ The project brings together three areas of business performance to identify tren
 
 ### 3. Risk & Compliance Analysis
 
-![Risk & Compliance Analysis](risk-compliance.png)
+![Risk & Compliance Analysis](Risk%20%26%20Compliance%20Analysis.png)
 
 **Key Performance Indicators:**
 
@@ -108,4 +108,3 @@ The project brings together three areas of business performance to identify tren
 ## 👩‍💻 Project Focus
 
 **Data Analytics | Business Intelligence | Financial & Operational Reporting**
-
